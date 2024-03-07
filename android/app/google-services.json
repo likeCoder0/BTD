@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680837344600",
+    "project_id": "brain-tumor-detection-f1145",
+    "storage_bucket": "brain-tumor-detection-f1145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680837344600:android:b4861ddc82a619146e492d",
+        "android_client_info": {
+          "package_name": "com.example.btd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13lHrghl0jKj60tuke9H8GnLOnGJnfSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
